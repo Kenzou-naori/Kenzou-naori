@@ -13,8 +13,12 @@
   </a>
 </div>
 <div align="center">
+  My name is Naufal Muhammad Zahran, you can call me Zahran.
+
+I am 17 years old, I am still attending SMK Negeri 1 Ciomas, Bogor, Indonesia.   
+I am an Indonesian citizen.
   
-### 🤝: My Stats :
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kenzou-naori&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzou-naori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
